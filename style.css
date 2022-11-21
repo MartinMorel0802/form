@@ -1,0 +1,18 @@
+form div {
+    margin-top: 40px ;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+form div input{
+    width: 100%;
+    height: 20px;
+}
+
+form div textarea{
+    width: 100%;
+}
+
+button{
+    margin-top: 30px;
+}
